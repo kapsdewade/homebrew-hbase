@@ -1,7 +1,7 @@
 require 'formula'
 
 class Hbase094 < Formula
-  url 'http://www.apache.org/dyn/closer.cgi?path=hbase/hbase-0.94.4/hbase-0.94.4.tar.gz'
+  url 'http://www.apache.org/dyn/closer.cgi?path=hbase/hbase-0.94.8/hbase-0.94.8.tar.gz'
   homepage 'http://hbase.apache.org'
   md5 '65db1485f85ebfc94144a24f27ca0d15'
 
